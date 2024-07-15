@@ -3,4 +3,6 @@
 
 Mapepire provides a performant, cloud-friendly database access layer for Db2 on IBM i. 
 
+See the docs **[here](https://mapepire-ibmi.github.io/)**
+
 ![mapepire-logo](https://github.com/user-attachments/assets/96c4d8e1-04f7-4f5b-8fc5-d1b32203f659)
